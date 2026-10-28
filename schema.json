@@ -1,0 +1,14 @@
+{
+  "asset_class": "Corporate Entity Franchise Royalty & Distribution Ledger",
+  "build_parameters": {
+    "macro_free": true,
+    "responsive_scale_target": "85%",
+    "canvas_base": "Matte-Black Theme"
+  },
+  "operational_matrices": [
+    "multiunit_node_location_logs",
+    "gross_sales_revenue_matrices",
+    "contractual_royalty_fee_codes",
+    "net_disbursement_reconciliation_values"
+  ]
+}
